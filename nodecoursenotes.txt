@@ -1,0 +1,1 @@
+middlewares -> middlewares is a method were it ue to connect one http request to another request
